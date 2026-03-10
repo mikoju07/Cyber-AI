@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unbenannt.md",
+                "file": "Installation und Setup - PentestGPT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unbenannt"
+              "title": "Installation und Setup - PentestGPT"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "1c73df270c40cf2b",
@@ -208,7 +208,7 @@
   },
   "active": "8bb216d1a51ce8f0",
   "lastOpenFiles": [
-    "Unbenannt.md",
+    "Installation und Setup - PentestGPT.md",
     "Willkommen.md",
     "assets/Pasted image 20260310153659.png",
     "assets/Pasted image 20260310153647.png",
